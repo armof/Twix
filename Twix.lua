@@ -7708,7 +7708,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = 'ٴ•━━━━━━𓏺𝗧𝗘𝗞𝗞𝗘𝗡𓏺━━━━━━━•ٴ', url = 't.me/mrmilanorap'}, 
+{text = 'ٴ•━━━━━━𓏺𝗧𝗘𝗞𝗞𝗘𝗡𓏺━━━━━━━•ٴ', url = 't.me/h_rd99'}, 
 },
 }
 }
@@ -9057,7 +9057,7 @@ data = {
 {text = '{ اوامر التعطيل / التفعيل }', data = msg.sender.user_id..'/listallAddorrem'}, 
 },
 {
-{text = '• قناة السورس', url = 't.me/mrmilanorap'}, 
+{text = '• قناة السورس', url = 't.me/h_rd99'}, 
 },
 }
 }
@@ -9086,7 +9086,7 @@ data = {
 {text = '{ قائمه الاوامر }', data = msg.sender.user_id..'/helpall'},
 },
 {
-{text = '• قناة السورس', url = 't.me/mrmilanorap'}, 
+{text = '• قناة السورس', url = 't.me/h_rd99'}, 
 },
 }
 }
@@ -9106,7 +9106,7 @@ data = {
 {text = '{ قائمه الاوامر }', data = msg.sender.user_id..'/helpall'},
 },
 {
-{text = '• قناة السورس', url = 't.me/mrmilanorap'}, 
+{text = '• قناة السورس', url = 't.me/h_rd99'}, 
 },
 }
 }
@@ -9126,7 +9126,7 @@ data = {
 {text = '{ قائمه الاوامر }', data = msg.sender.user_id..'/helpall'},
 },
 {
-{text = '• قناة السورس', url = 't.me/mrmilanorap'}, 
+{text = '• قناة السورس', url = 't.me/h_rd99'}, 
 },
 }
 }
@@ -9146,7 +9146,7 @@ data = {
 {text = '{ قائمه الاوامر }', data = msg.sender.user_id..'/helpall'},
 },
 {
-{text = '• قناة السورس', url = 't.me/mrmilanorap'}, 
+{text = '• قناة السورس', url = 't.me/h_rd99'}, 
 },
 }
 }
@@ -9166,7 +9166,7 @@ data = {
 {text = '{ قائمه الاوامر }', data = msg.sender.user_id..'/helpall'},
 },
 {
-{text = '• قناة السورس', url = 't.me/mrmilanorap'}, 
+{text = '• قناة السورس', url = 't.me/h_rd99'}, 
 },
 }
 }
@@ -9186,7 +9186,7 @@ data = {
 {text = '{ قائمه الاوامر }', data = msg.sender.user_id..'/helpall'},
 },
 {
-{text = '• قناة السورس', url = 't.me/mrmilanorap'}, 
+{text = '• قناة السورس', url = 't.me/h_rd99'}, 
 },
 }
 }
@@ -10038,7 +10038,7 @@ data = {
 {text = '➕ اضفني لمجموعتك', url = 't.me/'..UserBot..'?startgroup=new'}, 
 },
 {
-{text = '• قناة السورس', url = 't.me/mrmilanorap'}, 
+{text = '• قناة السورس', url = 't.me/h_rd99'}, 
 },
 }
 }
@@ -10051,7 +10051,7 @@ data = {
 {text = '➕ اضفني لمجموعتك', url = 't.me/'..UserBot..'?startgroup=new'}, 
 },
 {
-{text = '• قناة السورس', url = 't.me/mrmilanorap'}, 
+{text = '• قناة السورس', url = 't.me/h_rd99'}, 
 },
 }
 }
@@ -10911,7 +10911,7 @@ data = {
 {text = '{ القائمه الرئيسيه }', data = IdUser..'/helpall'},
 },
 {
-{text = '• قناة السورس', url = 't.me/mrmilanorap'}, 
+{text = '• قناة السورس', url = 't.me/h_rd99'}, 
 },
 }
 }
@@ -10969,7 +10969,7 @@ data = {
 {text = '{ القائمه الرئيسيه }', data = IdUser..'/helpall'},
 },
 {
-{text = '• قناة السورس', url = 't.me/mrmilanorap'}, 
+{text = '• قناة السورس', url = 't.me/h_rd99'}, 
 },
 }
 }
@@ -11028,7 +11028,7 @@ data = {
 {text = '{ القائمه الرئيسيه }', data = IdUser..'/helpall'},
 },
 {
-{text = '• قناة السورس', url = 't.me/mrmilanorap'}, 
+{text = '• قناة السورس', url = 't.me/h_rd99'}, 
 },
 }
 }
@@ -11081,7 +11081,7 @@ data = {
 {text = '{ القائمه الرئيسيه }', data = IdUser..'/helpall'},
 },
 {
-{text = '• قناة السورس', url = 't.me/mrmilanorap'}, 
+{text = '• قناة السورس', url = 't.me/h_rd99'}, 
 },
 }
 }
@@ -11121,7 +11121,7 @@ data = {
 {text = '{ القائمه الرئيسيه }', data = IdUser..'/helpall'},
 },
 {
-{text = '• قناة السورس', url = 't.me/mrmilanorap'}, 
+{text = '• قناة السورس', url = 't.me/h_rd99'}, 
 },
 }
 }
@@ -11176,7 +11176,7 @@ data = {
 {text = '{ القائمه الرئيسيه }', data = IdUser..'/helpall'},
 },
 {
-{text = '• قناة السورس', url = 't.me/mrmilanorap'}, 
+{text = '• قناة السورس', url = 't.me/h_rd99'}, 
 },
 }
 }
@@ -11220,7 +11220,7 @@ data = {
 {text = '{ 𝟓 }', data = IdUser..'/help5'}, {text = '{ الالعاب }', data = IdUser..'/help6'}, 
 },
 {
-{text = '• قناة السورس', url = 't.me/mrmilanorap'}, 
+{text = '• قناة السورس', url = 't.me/h_rd99'}, 
 },
 }
 }
