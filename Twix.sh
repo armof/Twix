@@ -1,4 +1,4 @@
-#!/bin/bash
+
 cd $(cd $(dirname $0); pwd)
 echo -e '\e[1m\e[31m
 Twixsource is being installed, 
@@ -54,7 +54,6 @@ unzip luatele.zip
 sudo lua5.3 Twix.lua
 ;;
 esac
-#!/bin/bash
 cd $(cd $(dirname $0); pwd)
 echo -e '\e[1m\e[31m
 Twixsource is being installed, 
